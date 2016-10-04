@@ -16,7 +16,7 @@
   ],
   "version": "3.0.0",
   "dependencies": {
-    "phantomjs-prebuilt": "latest",
+    "phantomjs": "^2.1.7",
     "async": "latest",
     "tmp": "latest",
     "debug": "latest"
